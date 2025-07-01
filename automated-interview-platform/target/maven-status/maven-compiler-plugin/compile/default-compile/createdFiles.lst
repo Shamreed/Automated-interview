@@ -1,0 +1,17 @@
+com\interview\controller\TestController.class
+com\interview\entity\User.class
+com\interview\entity\Role.class
+com\interview\security\CustomUserDetailsService.class
+com\interview\repository\UserRepository.class
+com\interview\security\AuthTokenFilter.class
+com\interview\AutomatedInterviewPlatformApplication.class
+com\interview\security\UserPrincipal.class
+com\interview\controller\WelcomeController.class
+com\interview\dto\LoginRequest.class
+com\interview\config\WebSecurityConfig.class
+com\interview\controller\AuthController.class
+com\interview\security\AuthEntryPointJwt.class
+com\interview\security\JwtUtils.class
+com\interview\dto\MessageResponse.class
+com\interview\dto\JwtResponse.class
+com\interview\dto\SignupRequest.class

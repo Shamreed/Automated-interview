@@ -1,0 +1,17 @@
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\controller\AuthController.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\repository\UserRepository.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\dto\JwtResponse.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\controller\TestController.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\security\JwtUtils.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\AutomatedInterviewPlatformApplication.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\dto\LoginRequest.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\config\WebSecurityConfig.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\dto\MessageResponse.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\dto\SignupRequest.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\security\UserPrincipal.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\controller\WelcomeController.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\security\AuthEntryPointJwt.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\security\CustomUserDetailsService.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\entity\Role.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\entity\User.java
+C:\Users\GTX\automated-interview-platform\src\main\java\com\interview\security\AuthTokenFilter.java
